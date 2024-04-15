@@ -5,7 +5,7 @@
 #### By *Mark Carlos Chege*
 
 ## Description
-It's a webpage that generates a random quote for the user in order to motivate them. This is to make the worl a better place!
+It's a webpage that generates a random quote for the user in order to motivate them. This is to make the world a better place!
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
